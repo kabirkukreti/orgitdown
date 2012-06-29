@@ -1,8 +1,8 @@
 ==============
-Orgitdowm !
+Orgitdown !
 ==============
  
-Orgitdowm is a powerful editor which will implement features of Emacs org mode and proposes to give users a simple web based tool which has org functionalities akin to Emacs
+Orgitdown is a powerful editor which will implement features of Emacs org mode and proposes to give users a simple web based tool which has org functionalities akin to Emacs
 
 
 Features
